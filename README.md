@@ -8,6 +8,7 @@ random
 | [0020-valid-parentheses](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
@@ -21,6 +22,7 @@ random
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0739-daily-temperatures](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0739-daily-temperatures) |
 ## Math
 |  |
 | ------- |
@@ -33,4 +35,8 @@ random
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0022-generate-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
