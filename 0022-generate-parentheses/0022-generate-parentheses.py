@@ -1,21 +1,31 @@
 class Solution:
     def generateParenthesis(self, n: int) -> List[str]:
-        ans=[]
 
-        def backtrack(op,cl,curr):
+        ans = []
 
-            if len(curr)==2*n:
+        # openN = opening brackets used
+        # closeN = closing brackets used
+
+        def backtrack(openN, closeN, curr):
+
+            # valid string found
+            if len(curr) == 2 * n:
                 ans.append(curr)
                 return
-            
-            if op<n:
-                backtrack(op+1,cl,curr+"(")
-            
-            if cl<op:
-                backtrack(op,cl+1,curr+")")
 
-        backtrack(0,0,"")
+            # add opening bracket
+            if openN < n:
+                backtrack(openN + 1,
+                          closeN,
+                          curr + "(")
+
+            # add closing bracket
+            # only if valid
+            if closeN < openN:
+                backtrack(openN,
+                          closeN + 1,
+                          curr + ")")
+
+        backtrack(0, 0, "")
+
         return ans
-
-
-        
