@@ -15,11 +15,7 @@
 # 📊 Dynamic LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Ayesha_Bhatt?theme=dark&font=Poppins&ext=contest" />
-</p>
-
-<p align="center">
-  <img src="https://leetcode-stats.vercel.app/api?username=Ayesha_Bhatt&theme=Dark" />
+  <img src="https://leetcode.card.workers.dev/Ayesha_Bhatt?theme=dark&font=baloo&extension=null" />
 </p>
 
 ---
