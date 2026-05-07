@@ -1,22 +1,13 @@
-<h1 align="center">✨ Hey, I'm Ayesha Bhatt ✨</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=LeetCode+Grind+🔥;DSA+%7C+Python+%7C+Algorithms;Consistency+beats+talent+💫;Building+Logic+One+Problem+at+a+Time;Future+Software+Engineer+🚀" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itsaisha17&style=for-the-badge&color=ff69b4" />
-  
-  <img src="https://img.shields.io/github/followers/itsaisha17?style=for-the-badge&color=ff69b4&labelColor=1a1b27" />
-</p>
-
----
-
-<p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280"/>
 </p>
 
----
+
 # ⚡ Repository Purpose
 
 This repository is my personal DSA archive where I document solutions, patterns, and approaches while solving LeetCode problems consistently.
@@ -29,7 +20,7 @@ It serves as:
 
 Each solution added here represents another step toward becoming a better problem solver.
 
----
+
 
 # 📊 Dynamic LeetCode Stats
 
@@ -43,7 +34,6 @@ Each solution added here represents another step toward becoming a better proble
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsaisha17&theme=tokyonight" />
 </p>
 
----
 
 # 📈 GitHub Analytics
 
@@ -53,7 +43,7 @@ Each solution added here represents another step toward becoming a better proble
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsaisha17&theme=tokyonight&border_radius=15" height="170"/>
 </p>
 
----
+
 
 # 🔥 Activity Graph
 
@@ -61,7 +51,6 @@ Each solution added here represents another step toward becoming a better proble
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsaisha17&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
----
 
 # 🐍 Contribution Snake
 
@@ -69,7 +58,7 @@ Each solution added here represents another step toward becoming a better proble
   <img src="https://raw.githubusercontent.com/itsaisha17/itsaisha17/output/snake.svg" alt="Snake animation" />
 </p>
 
----
+
 
 # 💻 Tech Stack
 
@@ -77,15 +66,8 @@ Each solution added here represents another step toward becoming a better proble
   <img src="https://skillicons.dev/icons?i=python,cpp,c,java,git,vscode,github" />
 </p>
 
----
 
-# 🌸 Random Dev Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
 
 # ⚡ Fun Fact
 
@@ -97,7 +79,7 @@ while life:
     repeat()
 ```
 
----
+
 
 # 📚 Problem Categories
 
