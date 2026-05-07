@@ -1,55 +1,70 @@
-random 
+<h1 align="center">✨ Ayesha Bhatt ✨</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=LeetCode+Grind+🔥;DSA+%7C+Python+%7C+Algorithms;Consistency+beats+talent+💫;Building+Logic+One+Problem+at+a+Time" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+</p>
+
+---
+
+# 📊 Dynamic LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Ayesha_Bhatt?theme=dark&font=Poppins&ext=contest" />
+</p>
+
+<p align="center">
+  <img src="https://leetcode-stats.vercel.app/api?username=Ayesha_Bhatt&theme=Dark" />
+</p>
+
+---
+
+# 🔥 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsaisha17&theme=tokyo-night" />
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/itsaisha17/itsaisha17/output/snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,git,vscode" />
+</p>
+
+---
+
+# 🌸 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+# 🔥 Codolio Card
+
+<p align="center">
+  <img src="https://codolio.com/profile/TXJdhDbSooo/card" width="700"/>
+</p>
+
+---
+
+# 📚 Problem Categories
 
 <!---LeetCode Topics Start-->
-# LeetCode Topics
-## Stack
-|  |
-| ------- |
-| [0020-valid-parentheses](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0020-valid-parentheses) |
-| [0150-evaluate-reverse-polish-notation](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0150-evaluate-reverse-polish-notation) |
-| [0155-min-stack](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0155-min-stack) |
-| [0739-daily-temperatures](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0739-daily-temperatures) |
-| [0853-car-fleet](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0853-car-fleet) |
-## Design
-|  |
-| ------- |
-| [0155-min-stack](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0155-min-stack) |
-## String
-|  |
-| ------- |
-| [0020-valid-parentheses](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0020-valid-parentheses) |
-| [0022-generate-parentheses](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0022-generate-parentheses) |
-## Array
-|  |
-| ------- |
-| [0150-evaluate-reverse-polish-notation](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0150-evaluate-reverse-polish-notation) |
-| [0189-rotate-array](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0189-rotate-array) |
-| [0739-daily-temperatures](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0739-daily-temperatures) |
-| [0853-car-fleet](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0853-car-fleet) |
-## Math
-|  |
-| ------- |
-| [0150-evaluate-reverse-polish-notation](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0150-evaluate-reverse-polish-notation) |
-| [0189-rotate-array](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0189-rotate-array) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0022-generate-parentheses](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0022-generate-parentheses) |
-## Backtracking
-|  |
-| ------- |
-| [0022-generate-parentheses](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0022-generate-parentheses) |
-## Monotonic Stack
-|  |
-| ------- |
-| [0739-daily-temperatures](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0739-daily-temperatures) |
-| [0853-car-fleet](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0853-car-fleet) |
-## Sorting
-|  |
-| ------- |
-| [0853-car-fleet](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0853-car-fleet) |
-## Two Pointers
-|  |
-| ------- |
-| [0189-rotate-array](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0189-rotate-array) |
+YOUR AUTO GENERATED SECTION HERE
 <!---LeetCode Topics End-->
