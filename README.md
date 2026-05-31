@@ -107,6 +107,7 @@ while life:
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0217-contains-duplicate) |
 | [0739-daily-temperatures](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0853-car-fleet) |
 ## Math
@@ -130,11 +131,16 @@ while life:
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0217-contains-duplicate) |
 | [0853-car-fleet](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0853-car-fleet) |
 ## Two Pointers
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0189-rotate-array) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
 
 ---
