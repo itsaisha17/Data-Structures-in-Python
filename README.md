@@ -102,9 +102,11 @@ while life:
 | ------- |
 | [0020-valid-parentheses](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0049-group-anagrams) |
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0049-group-anagrams) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0217-contains-duplicate) |
@@ -131,6 +133,7 @@ while life:
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0217-contains-duplicate) |
 | [0853-car-fleet](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0853-car-fleet) |
 ## Two Pointers
@@ -140,6 +143,7 @@ while life:
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
 
