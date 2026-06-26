@@ -139,12 +139,18 @@ while life:
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0049-group-anagrams) |
+| [0141-linked-list-cycle](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0217-contains-duplicate) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
 
 ---
