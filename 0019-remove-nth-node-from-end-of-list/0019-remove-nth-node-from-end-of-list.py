@@ -8,22 +8,21 @@ class Solution:
         if not head:
             return None
         
-        slow=head
         fast=head
+        slow=head
 
-        #gap=n
         count=0
-        while count<n:          
+        while count<n:
             fast=fast.next
             count+=1
-        #incase n=length of list
+
         if fast is None:
             return head.next
-        #move both till fast reaches last , slow= Nth  then
+        
         while fast.next:
             slow=slow.next
             fast=fast.next
-        #delete Nth
+        
         slow.next=slow.next.next
         return head
         
