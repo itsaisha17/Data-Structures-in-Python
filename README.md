@@ -110,6 +110,7 @@ while life:
 | [0150-evaluate-reverse-polish-notation](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0217-contains-duplicate) |
+| [0287-find-the-duplicate-number](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0287-find-the-duplicate-number) |
 | [0739-daily-temperatures](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0853-car-fleet) |
 ## Math
@@ -143,6 +144,7 @@ while life:
 | [0141-linked-list-cycle](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -156,6 +158,14 @@ while life:
 | [0019-remove-nth-node-from-end-of-list](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0142-linked-list-cycle-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
 
 ---
