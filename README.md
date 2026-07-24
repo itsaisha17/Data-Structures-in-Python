@@ -107,6 +107,7 @@ while life:
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0056-merge-intervals) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0217-contains-duplicate) |
@@ -135,6 +136,7 @@ while life:
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0217-contains-duplicate) |
 | [0853-car-fleet](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0853-car-fleet) |
 ## Two Pointers
