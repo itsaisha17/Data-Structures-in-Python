@@ -103,6 +103,7 @@ while life:
 | [0020-valid-parentheses](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0242-valid-anagram) |
 ## Array
 |  |
 | ------- |
@@ -139,6 +140,7 @@ while life:
 | [0049-group-anagrams](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0242-valid-anagram) |
 | [0853-car-fleet](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0853-car-fleet) |
 ## Two Pointers
 |  |
@@ -156,6 +158,7 @@ while life:
 | [0141-linked-list-cycle](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
