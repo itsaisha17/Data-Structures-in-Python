@@ -106,6 +106,7 @@ while life:
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0056-merge-intervals) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -150,6 +151,7 @@ while life:
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0142-linked-list-cycle-ii) |
