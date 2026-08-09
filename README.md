@@ -112,6 +112,7 @@ while life:
 | [0049-group-anagrams](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0056-merge-intervals) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0287-find-the-duplicate-number) |
@@ -150,6 +151,7 @@ while life:
 | [0125-valid-palindrome](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0142-linked-list-cycle-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
@@ -170,6 +172,7 @@ while life:
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
