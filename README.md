@@ -109,6 +109,7 @@ while life:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0056-merge-intervals) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -147,6 +148,7 @@ while life:
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0141-linked-list-cycle) |
@@ -178,6 +180,10 @@ while life:
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0287-find-the-duplicate-number) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
 
 ---
