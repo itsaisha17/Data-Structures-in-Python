@@ -1,5 +1,6 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
+        ##USE TWO POINTER -->
 
         #clean  the palindrome
         clean=[]
