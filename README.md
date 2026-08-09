@@ -103,6 +103,7 @@ while life:
 | [0020-valid-parentheses](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0242-valid-anagram) |
 ## Array
 |  |
@@ -146,6 +147,7 @@ while life:
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0125-valid-palindrome](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0189-rotate-array) |
