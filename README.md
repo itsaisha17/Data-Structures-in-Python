@@ -100,6 +100,7 @@ while life:
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0049-group-anagrams) |
@@ -160,6 +161,7 @@ while life:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0142-linked-list-cycle-ii) |
@@ -184,6 +186,10 @@ while life:
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0011-container-with-most-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
 
 ---
