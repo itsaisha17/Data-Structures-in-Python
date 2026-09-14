@@ -192,6 +192,10 @@ while life:
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0003-longest-substring-without-repeating-characters) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
 
 ---
