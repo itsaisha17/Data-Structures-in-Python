@@ -11,3 +11,5 @@ from Employee e
 left join Department d
 on e.departmentId= d.id) temp
 where ranks<=3;
+
+#Diff btw rank and dense_rank
