@@ -106,6 +106,7 @@ while life:
 | [0049-group-anagrams](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0242-valid-anagram) |
+| [1768-merge-strings-alternately](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/1768-merge-strings-alternately) |
 ## Array
 |  |
 | ------- |
@@ -158,6 +159,7 @@ while life:
 | [0189-rotate-array](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0876-middle-of-the-linked-list) |
+| [1768-merge-strings-alternately](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
 |  |
 | ------- |
