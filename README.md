@@ -114,6 +114,7 @@ while life:
 | [0011-container-with-most-water](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0189-rotate-array) |
@@ -144,6 +145,7 @@ while life:
 | ------- |
 | [0049-group-anagrams](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0242-valid-anagram) |
 | [0853-car-fleet](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0853-car-fleet) |
@@ -152,6 +154,7 @@ while life:
 | ------- |
 | [0011-container-with-most-water](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0088-merge-sorted-array](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/itsaisha17/Data-Structures-in-Python/tree/master/0142-linked-list-cycle-ii) |
